@@ -2,7 +2,7 @@
 
 <strong> 👋 Eae Me Chamo Kayky Antonio</strong>
 
-<strong>LINGUAGENS DE PROGRAMAÇÃO E FERRAMENTAS PARA CÓDIGO::</strong> 
+<strong>LINGUAGENS DE PROGRAMAÇÃO E FERRAMENTAS PARA CÓDIGO:</strong> 
 <div style="position: center;"> 
  <img style="width: 30px; height:30px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" /> 
  <img style="width: 30px; height:30px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" />
